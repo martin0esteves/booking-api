@@ -36,7 +36,7 @@ There is currently a failing test:
 
 
 ## Technical stack and design
-- 
+
 - Java, Spring boot, and relational database.
 - Hexagonal design. More info: https://alistair.cockburn.us/hexagonal-architecture/.
 - Spring controllers. Ex: https://www.baeldung.com/spring-controllers.
